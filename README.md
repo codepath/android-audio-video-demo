@@ -13,6 +13,6 @@ Features:
  
 Screens:
  
-<img src="http://i.imgur.com/Coqqj4F.png" width="300" />&nsbp;
-<img src="http://i.imgur.com/BPvEYHY.png" width="300" />&nsbp;
-<img src="http://i.imgur.com/q4f1zQB.png" width="300" />
+<img src="http://i.imgur.com/Coqqj4F.png" width="250" />&nbsp;
+<img src="http://i.imgur.com/BPvEYHY.png" width="250" />&nbsp;
+<img src="http://i.imgur.com/q4f1zQB.png" width="250" />
